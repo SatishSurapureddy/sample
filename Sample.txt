@@ -38,3 +38,4 @@ BA_ "DiagState" BO_ 662 0;
 BA_ "DiagResponse" BO_ 662 0;
 BA_ "DiagRequest" BO_ 662 0;
 BA_ "PF_Msg_Name" BO_ 662 "BV_Obj_15_E";
+updated on 10-12-2019 by Satish S
