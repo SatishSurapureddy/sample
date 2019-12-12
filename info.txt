@@ -1,1 +1,3 @@
 This file is created in a branch called MyBranch and added this content by Satish S
+trying to add some info to explore the git extension.
+option: "Cherry pick commit"
