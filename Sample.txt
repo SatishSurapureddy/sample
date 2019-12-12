@@ -1,3 +1,4 @@
+checking other options available in git
 Expecting to move the master branch to top line
 Updated by Satish in Master branch
 updated on 12-12-2019 by Satish S
